@@ -14,7 +14,8 @@
     <body>
         <h1>Welcome to Pass Manager!</h1>
         <p>${info}<p>
-            <a href="showFormAddResource">Add new resource:</a><br>
-            <a href="listResources">List of resources:</a><br>
+            <a href="showFormAddResource">Add new resource</a><br>
+            <a href="showFormAddUser">Add new user</a><br>
+            <a href="listResources">List of resources</a><br>
     </body>
 </html>
